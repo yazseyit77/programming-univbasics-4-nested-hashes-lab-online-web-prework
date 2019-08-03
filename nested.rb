@@ -84,7 +84,7 @@ def adding_matz
         }
      }
 
-		 programmer_hash[:yukihiro_matsumoto][:languages] = "Ruby"
+		 programmer_hash[:yukihiro_matsumoto][key] = value
 end
 
 def changing_alan
